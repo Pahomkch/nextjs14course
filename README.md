@@ -1,5 +1,7 @@
 ## Next.js 14 Course
 
+https://nextjs.org/learn/dashboard-app
+
 - The Next.js App Router
 - Styling and Tailwind CSS
 - Optimizing Fonts and Images

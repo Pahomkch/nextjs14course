@@ -1,6 +1,4 @@
-import {memo} from "react"
-
-const Dashboard = (props: {className?: string}) => {
+const Dashboard = () => {
   return <div className="grid">Dashboard</div>
 }
 

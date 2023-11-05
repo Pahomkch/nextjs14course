@@ -1,6 +1,4 @@
-import {memo} from "react"
-
-const LoginPage = (props: {className?: string}) => {
+const LoginPage = () => {
   return <div className="grid">Login me full</div>
 }
 
